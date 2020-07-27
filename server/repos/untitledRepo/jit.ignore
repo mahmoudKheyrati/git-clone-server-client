@@ -1,0 +1,6 @@
+git.exe
+Hasher.jar
+node_modules
+package.json
+package-lock.json
+App.js
